@@ -1,5 +1,5 @@
 # translater
-A python function to translate into the language of each country
+A python function to translate into the language of each country.  
 The default language pair is en-ja(English-Japanese).
 
 # example
